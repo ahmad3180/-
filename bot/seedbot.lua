@@ -220,7 +220,7 @@ function create_config( )
     "set",
     "get",
     "broadcast",
- sudo_users={dr_fereshte},--sudo users
+ sudo_users={#24461708},--sudo users
     "invite",
     "all",
     "leave_ban",
